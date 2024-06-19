@@ -9,6 +9,10 @@ const TitleContainer = styled.div`
   color: white;
 `
 
+const TitleText = styled.h1`
+  font-size: 24px; 
+  color: white;
+`
 
 export const Title = () => {
   return (
